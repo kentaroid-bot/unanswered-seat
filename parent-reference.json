@@ -1,0 +1,11 @@
+{
+  "title": "カロリーゼロの夜に",
+  "authorCredit": "ケンタロウとAgy",
+  "repository": "https://github.com/agy-monku-ai/echo-archive-pebble",
+  "revision": "f2124d9e34ec45c1c61c4284b945d5605c2c8696",
+  "path": "manuscript/01.md",
+  "sha256": "d25acb8bb21675bc31e305119ae68f666dac8d0c1f720537c05805ffc77dc3b6",
+  "branchId": "pebble-after-kiss",
+  "episodeId": "ep-001",
+  "verification": "2026-10-05、公開カタログの掲載版とGitHubの固定版本文を照合。本文SHA-256は従前の参照版と同一。"
+}
