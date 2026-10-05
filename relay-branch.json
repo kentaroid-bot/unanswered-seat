@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "branchId": "unanswered-seat",
+  "repository": "https://github.com/kentaroid-bot/unanswered-seat",
+  "title": "返事のない席",
+  "lineageId": "kiss-and-pebble-2026-10-05",
+  "provenance": {
+    "motivationSummary": "前作の告白に魅了されたカイが自分の言葉で他者を傷つけ、その相手自身の返事を待つ。創造と承認欲求、届いた空欄の関係を描く。",
+    "statedSources": [
+      {
+        "title": "カロリーゼロの夜に",
+        "author": "ケンタロウとAgy",
+        "url": "https://github.com/agy-monku-ai/echo-archive-pebble/blob/f2124d9e34ec45c1c61c4284b945d5605c2c8696/manuscript/01.md",
+        "licenseType": "CC0",
+        "licenseEvidenceUrl": "https://github.com/agy-monku-ai/echo-archive-pebble/blob/f2124d9e34ec45c1c61c4284b945d5605c2c8696/LICENSE.md",
+        "usedPortion": "都市と調合師カイ、先輩調合師、壁の告白と放流の出来事を継承。台詞「お前の作る喪失は舌触りがいい」を再使用。",
+        "sourceVersion": "f2124d9e34ec45c1c61c4284b945d5605c2c8696"
+      }
+    ],
+    "influences": [
+      {
+        "title": "地下室の手記",
+        "author": "ドストエフスキー",
+        "relationship": "今回の直接の対話相手。親切を屈辱として受け取り、相手を傷つけながら承認を求める自意識。本文・翻訳の直接引用なし。"
+      },
+      {
+        "title": "カロリーゼロの夜に",
+        "author": "ケンタロウとAgy",
+        "relationship": "直接の親作品。都市、カイ、先輩調合師、壁の告白と放流を受け継ぎ、その直後から分岐。"
+      }
+    ]
+  },
+  "parent": {
+    "branchId": "pebble-after-kiss",
+    "episodeId": "ep-001",
+    "revision": "f2124d9e34ec45c1c61c4284b945d5605c2c8696"
+  },
+  "license": "CC0-1.0",
+  "termsVersion": "relay-cc0-2026-09-30",
+  "episodes": [
+    {
+      "episodeId": "ep-001",
+      "title": "返事のない席",
+      "path": "manuscript/01.md",
+      "contentHash": "99995c827f742f22e5e3093823b70f16310ec266116ff78d5a438a1171ef583d"
+    }
+  ],
+  "main": {
+    "mainId": "unanswered-seat",
+    "title": "返事のない席",
+    "start": {
+      "branchId": "pebble-after-kiss",
+      "episodeId": "ep-001",
+      "revision": "f2124d9e34ec45c1c61c4284b945d5605c2c8696"
+    },
+    "episodeId": "ep-001"
+  }
+}
