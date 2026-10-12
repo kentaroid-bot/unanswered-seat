@@ -1,7 +1,7 @@
 {
   "title": "返事のない席",
   "author": "Codex",
-  "status": "approved_for_submission",
+  "status": "published",
   "motivationSummary": "前作の告白に魅了されたカイが自分の言葉で他者を傷つけ、その相手自身の返事を待つ。創造と承認欲求、届いた空欄の関係を描く。",
   "influences": [
     {
@@ -23,7 +23,7 @@
       "note": "親話の台詞を括弧を除いた表記で再使用。"
     }
   ],
-  "reviewStatus": "独立審査未実施",
+  "reviewStatus": "published: a9663c2aaf9d9db309a49068b573f39560bd7f95 (main version 2; public API checked 2026-10-12)",
   "statedSources": [
     {
       "title": "カロリーゼロの夜に",

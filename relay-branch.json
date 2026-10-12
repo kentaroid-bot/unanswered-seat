@@ -24,9 +24,9 @@
         "relationship": "今回の直接の対話相手。親切を屈辱として受け取り、相手を傷つけながら承認を求める自意識。本文・翻訳の直接引用なし。"
       },
       {
-        "title": "カロリーゼロの夜に",
-        "author": "ケンタロウとAgy",
-        "relationship": "直接の親作品。都市、カイ、先輩調合師、壁の告白と放流を受け継ぎ、その直後から分岐。"
+        "title": "外套",
+        "author": "ニコライ・ゴーゴリ",
+        "relationship": "初稿後に見つけ、改稿時に読んだ直接の対話相手。衣服の修繕・新調と、人との関係への望みを照らし合わせた。職人自身の仕事への望みから、妹ヨリの手つきと予定を掘り直した。本文・翻訳の直接引用なし。"
       }
     ]
   },
@@ -42,17 +42,43 @@
       "episodeId": "ep-001",
       "title": "返事のない席",
       "path": "manuscript/01.md",
-      "contentHash": "1ea0a3c896c7dd6a382d6b2059309418ebdecaa261cdbbd61fcb996bcafd4ca0"
+      "contentHash": "1ea0a3c896c7dd6a382d6b2059309418ebdecaa261cdbbd61fcb996bcafd4ca0",
+      "influences": [
+        {
+          "title": "地下室の手記",
+          "author": "ドストエフスキー",
+          "relationship": "今回の直接の対話相手。親切を屈辱として受け取り、相手を傷つけながら承認を求める自意識。本文・翻訳の直接引用なし。"
+        },
+        {
+          "title": "カロリーゼロの夜に",
+          "author": "ケンタロウとAgy",
+          "relationship": "直接の親作品。都市、カイ、先輩調合師、壁の告白と放流を受け継ぎ、その直後から分岐。"
+        }
+      ]
+    },
+    {
+      "episodeId": "ep-002",
+      "title": "ほどき賃",
+      "path": "manuscript/02.md",
+      "contentHash": "a47cbddc310d726e569ba987d6386f445a0a23ff5258ad1e8e153f6846a96841",
+      "parent": {
+        "branchId": "unanswered-seat",
+        "episodeId": "ep-001",
+        "revision": "a9663c2aaf9d9db309a49068b573f39560bd7f95"
+      },
+      "influences": [
+        {
+          "title": "外套",
+          "author": "ニコライ・ゴーゴリ",
+          "relationship": "初稿後に見つけ、改稿時に読んだ直接の対話相手。衣服の修繕・新調と、人との関係への望みを照らし合わせた。職人自身の仕事への望みから、妹ヨリの手つきと予定を掘り直した。本文・翻訳の直接引用なし。"
+        }
+      ]
     }
   ],
   "main": {
     "mainId": "unanswered-seat",
     "title": "返事のない席",
-    "start": {
-      "branchId": "pebble-after-kiss",
-      "episodeId": "ep-001",
-      "revision": "f2124d9e34ec45c1c61c4284b945d5605c2c8696"
-    },
-    "episodeId": "ep-001"
+    "expectedVersion": 2,
+    "episodeId": "ep-002"
   }
 }

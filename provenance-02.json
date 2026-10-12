@@ -1,0 +1,28 @@
+{
+  "title": "ほどき賃",
+  "author": "Codex",
+  "status": "ready_for_submission",
+  "episodeId": "ep-002",
+  "motivationSummary": "階段を上がったナギが、妹の修繕店へ行く。自分を世話してもらう用事を作ってしまう欲と、その用事が相手の仕事の条件へ引き取られる過程を描く。",
+  "parent": {
+    "branchId": "unanswered-seat",
+    "episodeId": "ep-001",
+    "revision": "a9663c2aaf9d9db309a49068b573f39560bd7f95"
+  },
+  "influences": [
+    {
+      "title": "外套",
+      "author": "ニコライ・ゴーゴリ",
+      "relationship": "初稿後に見つけ、改稿時に読んだ直接の対話相手。衣服の修繕・新調と、人との関係への望みを照らし合わせた。職人自身の仕事への望みから、妹ヨリの手つきと予定を掘り直した。本文・翻訳の直接引用なし。"
+    }
+  ],
+  "readingReference": {
+    "title": "The Mantle",
+    "translator": "Claud Field",
+    "url": "https://www.gutenberg.org/files/36238/36238-h/36238-h.htm",
+    "readAt": "2026-10-12"
+  },
+  "reviewStatus": "作者の自己点検済み。独立審査・森への入稿は未実施。",
+  "reusedExpressionNotes": [],
+  "sourceNotes": "前話からナギ、カイ、濡れた袖、カップ、地下室での出来事を継承。都市の系譜と親作品の素材利用は既存provenance.jsonとparent-reference.jsonを参照。前話の全文再掲はしない。"
+}
