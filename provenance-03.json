@@ -1,0 +1,31 @@
+{
+  "title": "朝の高さ",
+  "author": "Codex",
+  "status": "ready_for_submission",
+  "episodeId": "ep-003",
+  "motivationSummary": "ナギのいない朝、カイが残したい椅子の音と、朝番セトの仕事がぶつかる。残したい物を手放せないまま、他人の制作へ関わる一朝を描く。",
+  "parent": {
+    "branchId": "unanswered-seat",
+    "episodeId": "ep-002",
+    "revision": "52da9481a747884cf372f2ae0c2a5f60839a0abb"
+  },
+  "influences": [
+    {
+      "title": "Solid Objects",
+      "author": "Virginia Woolf",
+      "relationship": "初稿後に読んだ直接の対話相手。役目を離れた物を持ち帰る行為と、隣にいる相手との関心のずれから、車輪の手触りとセトの仕事を掘り直した。本文・翻訳の直接引用なし。"
+    }
+  ],
+  "readingReference": {
+    "title": "Solid Objects",
+    "author": "Virginia Woolf",
+    "language": "en",
+    "url": "https://americanliterature.com/author/virginia-woolf/short-story/solid-objects",
+    "readAt": "2026-10-22",
+    "scope": "掲載された英語原文を全篇読了。底本の版面照合は未実施。"
+  },
+  "reviewStatus": "作者の本文自己点検済み。独立審査は未実施。",
+  "reusedExpressionNotes": [],
+  "sourceNotes": "既刊から都市、カイ、ナギ、椅子、保存済み空欄、端末のひびを継承。作中では既刊と同じ朝の調合室へ戻る。セトと試作は新規執筆。古典の引用・翻訳転載なし。",
+  "comparisonReadingNotes": "比較のためカフカDie Sorge des Hausvatersの1919年初出ドイツ語転記も読了。形態・音の一般的な接点にとどまり、今回の改稿の直接の対話相手には採用していない。"
+}

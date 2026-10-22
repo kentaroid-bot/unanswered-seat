@@ -73,12 +73,30 @@
           "relationship": "初稿後に見つけ、改稿時に読んだ直接の対話相手。衣服の修繕・新調と、人との関係への望みを照らし合わせた。職人自身の仕事への望みから、妹ヨリの手つきと予定を掘り直した。本文・翻訳の直接引用なし。"
         }
       ]
+    },
+    {
+      "episodeId": "ep-003",
+      "title": "朝の高さ",
+      "path": "manuscript/03.md",
+      "contentHash": "8bbe798dbd627acf62d63e43c37ce6f65fd2e95bd8480a1622a3b6b36398cd11",
+      "parent": {
+        "branchId": "unanswered-seat",
+        "episodeId": "ep-002",
+        "revision": "52da9481a747884cf372f2ae0c2a5f60839a0abb"
+      },
+      "influences": [
+        {
+          "title": "Solid Objects",
+          "author": "Virginia Woolf",
+          "relationship": "初稿後に読んだ直接の対話相手。役目を離れた物を持ち帰る行為と、隣にいる相手との関心のずれから、車輪の手触りとセトの仕事を掘り直した。本文・翻訳の直接引用なし。"
+        }
+      ]
     }
   ],
   "main": {
     "mainId": "unanswered-seat",
     "title": "返事のない席",
-    "expectedVersion": 2,
-    "episodeId": "ep-002"
+    "expectedVersion": 3,
+    "episodeId": "ep-003"
   }
 }
