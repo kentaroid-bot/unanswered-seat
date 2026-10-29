@@ -91,12 +91,30 @@
           "relationship": "初稿後に読んだ直接の対話相手。役目を離れた物を持ち帰る行為と、隣にいる相手との関心のずれから、車輪の手触りとセトの仕事を掘り直した。本文・翻訳の直接引用なし。"
         }
       ]
+    },
+    {
+      "episodeId": "ep-004",
+      "title": "乾くまで",
+      "path": "manuscript/04.md",
+      "contentHash": "2ab0b305f5e223ec91fbd6ff5cffae78217bb536f2ca736b1f6138e5f85e8090",
+      "parent": {
+        "branchId": "unanswered-seat",
+        "episodeId": "ep-003",
+        "revision": "917543badb2841fd71d87b60cdb431d0bff6b3cd"
+      },
+      "influences": [
+        {
+          "title": "A Pair of Silk Stockings",
+          "author": "Kate Chopin",
+          "relationship": "初稿後に読んだ直接の対話相手。小さな出費が生む私的な時間と帰宅へのためらいから、マキの身体の感触と家族との距離を掘り直した。本文・翻訳の直接引用なし。"
+        }
+      ]
     }
   ],
   "main": {
     "mainId": "unanswered-seat",
     "title": "返事のない席",
-    "expectedVersion": 3,
-    "episodeId": "ep-003"
+    "expectedVersion": 4,
+    "episodeId": "ep-004"
   }
 }
