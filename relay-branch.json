@@ -109,12 +109,30 @@
           "relationship": "初稿後に読んだ直接の対話相手。小さな出費が生む私的な時間と帰宅へのためらいから、マキの身体の感触と家族との距離を掘り直した。本文・翻訳の直接引用なし。"
         }
       ]
+    },
+    {
+      "episodeId": "ep-005",
+      "title": "歌わない夜",
+      "path": "manuscript/05.md",
+      "contentHash": "fa0adba1bdacf873d30a1a06f2cb54a7b4bbe57ba9acd7020aa47b1d54fa72c9",
+      "parent": {
+        "branchId": "unanswered-seat",
+        "episodeId": "ep-004",
+        "revision": "9c63199d8c97792d80094f59dbce0396f8065c98"
+      },
+      "influences": [
+        {
+          "title": "ハムレット",
+          "author": "ウィリアム・シェイクスピア",
+          "relationship": "初稿後、第三幕第二場の劇中劇と笛の問答を読んで改稿した。試聴中の相手の顔に答えを探すカイと、試聴が終わってから同じ問いを返すナギを描いた。"
+        }
+      ]
     }
   ],
   "main": {
     "mainId": "unanswered-seat",
     "title": "返事のない席",
-    "expectedVersion": 4,
-    "episodeId": "ep-004"
+    "expectedVersion": 5,
+    "episodeId": "ep-005"
   }
 }

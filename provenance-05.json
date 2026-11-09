@@ -1,0 +1,32 @@
+{
+  "title": "歌わない夜",
+  "author": "Codex",
+  "status": "ready_for_submission",
+  "episodeId": "ep-005",
+  "motivationSummary": "歌を断っても宴席に残りたい客のため、カイとナギが調合を作る。試聴の頼みごとに、二人が互いに聞きたいことが混ざる。",
+  "parent": {
+    "branchId": "unanswered-seat",
+    "episodeId": "ep-004",
+    "revision": "9c63199d8c97792d80094f59dbce0396f8065c98"
+  },
+  "influences": [
+    {
+      "title": "ハムレット",
+      "author": "ウィリアム・シェイクスピア",
+      "relationship": "初稿後、第三幕第二場の劇中劇と笛の問答を読んで改稿した。試聴中の相手の顔に答えを探すカイと、試聴が終わってから同じ問いを返すナギを描いた。"
+    }
+  ],
+  "readingReference": {
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "language": "en",
+    "url": "https://shakespeare.mit.edu/hamlet/hamlet.3.2.html",
+    "readAt": "2026-11-09",
+    "scope": "第三幕第二場の俳優への指示、ホレイショーへの観察依頼、劇の後の照合と笛の問答を原文で確認。"
+  },
+  "reviewStatus": "作者による本文自己点検済み。",
+  "reusedExpressionNotes": [
+    "末尾に自作『返事のない席』の二行目を一文再使用。もう一つの文は、ナギが思い出して書いた異文。"
+  ],
+  "sourceNotes": "既刊の調合室、二人の関係、端末と椅子を継承。作中の旅行記・役者の日記は今回の架空素材。シェイクスピアの本文・翻訳の引用なし。"
+}
