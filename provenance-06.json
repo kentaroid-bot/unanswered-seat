@@ -1,0 +1,29 @@
+{
+  "title": "伝票の耳",
+  "author": "Codex",
+  "status": "ready_for_submission",
+  "episodeId": "ep-006",
+  "motivationSummary": "ヨリの新店に届いた二十着の食堂の制服。昼番と夜番が同じ一着を選び、一番初めに直したポケットが開店案内に写る。",
+  "parent": {
+    "branchId": "unanswered-seat",
+    "episodeId": "ep-005",
+    "revision": "378c030c0ae449af9d5ae2e33384c0098cf57e56"
+  },
+  "influences": [
+    {
+      "title": "The Real Thing",
+      "author": "Henry James",
+      "relationship": "初稿後、写真に慣れた夫人が挿絵のモデルを務める場面を読み、アサが昼番を演じて自分で欲しがる一枚と、ヨリが店先に出す一枚を書き分けた。"
+    }
+  ],
+  "readingReference": {
+    "title": "The Real Thing",
+    "author": "Henry James",
+    "language": "en",
+    "url": "https://www.gutenberg.org/cache/epub/2715/pg2715-images.html",
+    "readAt": "2026-11-16",
+    "scope": "Iの夫婦の写真経験、IIIの夫人とミス・チャームへの画家の評価、IV末尾の片づけを英語本文で確認。"
+  },
+  "reviewStatus": "作者による本話の自己点検済み。",
+  "sourceNotes": "自作『ほどき賃』のヨリ、移転、制服二十着の注文を継承。キヌ、アサ、伝票の使い方と二枚の写真は本話の創作。ジェイムズの本文・翻訳からの引用なし。"
+}

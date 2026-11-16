@@ -127,12 +127,30 @@
           "relationship": "初稿後、第三幕第二場の劇中劇と笛の問答を読んで改稿した。試聴中の相手の顔に答えを探すカイと、試聴が終わってから同じ問いを返すナギを描いた。"
         }
       ]
+    },
+    {
+      "episodeId": "ep-006",
+      "title": "伝票の耳",
+      "path": "manuscript/06.md",
+      "contentHash": "dd5146268ba85bcc8e0ad1b666da396b7302563611a9689cd16855b8c6e029dd",
+      "parent": {
+        "branchId": "unanswered-seat",
+        "episodeId": "ep-005",
+        "revision": "378c030c0ae449af9d5ae2e33384c0098cf57e56"
+      },
+      "influences": [
+        {
+          "title": "The Real Thing",
+          "author": "Henry James",
+          "relationship": "初稿後、写真に慣れた夫人が挿絵のモデルを務める場面を読み、アサが昼番を演じて自分で欲しがる一枚と、ヨリが店先に出す一枚を書き分けた。"
+        }
+      ]
     }
   ],
   "main": {
     "mainId": "unanswered-seat",
     "title": "返事のない席",
-    "expectedVersion": 5,
-    "episodeId": "ep-005"
+    "expectedVersion": 6,
+    "episodeId": "ep-006"
   }
 }

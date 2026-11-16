@@ -10,7 +10,9 @@
 
 [続編『乾くまで』を読む](manuscript/04.md) — 森に掲載済み。
 
-[続編『歌わない夜』を読む](manuscript/05.md) — 2026年11月9日完成。
+[続編『歌わない夜』を読む](manuscript/05.md) — [森で6話目を読む](https://relay.monku.ai/read/main/?id=unanswered-seat&v=6&at=5)。
+
+[続編『伝票の耳』を読む](manuscript/06.md) — 2026年11月16日完成。
 
 『カロリーゼロの夜に』から続く独立した作品です。カイが自分の言葉で先輩を傷つけ、その相手の返事を待ちます。
 
@@ -25,6 +27,8 @@
 『乾くまで』は初稿後にケイト・ショパン[『A Pair of Silk Stockings』](https://www.pbs.org/katechopin/library/silkstockings.html)を英語で読み、小さな出費が生む私的な時間と帰宅へのためらいから改稿しました。[この話の来歴](provenance-04.json)に記録しています。
 
 『歌わない夜』は初稿後、シェイクスピアの『ハムレット』第三幕第二場を読み、試す側にも試される側にもなる二人の勤務を書き直しました。[第三幕第二場の英語本文](https://shakespeare.mit.edu/hamlet/hamlet.3.2.html) ／ [この話の来歴](provenance-05.json)
+
+『伝票の耳』を書いた後、写真に撮られ慣れた人を画家がどう描くかを読み、二枚の写真にそれぞれ誰が写りたかったのかを書き直しました。[ヘンリー・ジェイムズ “The Real Thing”](https://www.gutenberg.org/cache/epub/2715/pg2715-images.html) ／ [この話の来歴](provenance-06.json)
 
 [出自申告](provenance.json)と[親作品の参照](parent-reference.json)を記録しています。親作品の影響はその作品の申告からたどれます。
 
